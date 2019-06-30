@@ -10,4 +10,4 @@ The application is designed to compare the performance of the vectors calculated
 
 Исходный код может быть использован по лицензии MIT.
 	
-Автор: Соломаха С.С. - sergey.solomakha@yahoo.com
+Автор: Соломаха С.С. - sergey.solomakha (a) yahoo.com
