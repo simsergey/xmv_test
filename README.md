@@ -9,5 +9,3 @@ The application is designed to compare the performance of the vectors calculated
 Предполагается 3 этапа - 2D, 3D, 4D векторы.
 
 Исходный код может быть использован по лицензии MIT.
-	
-Автор: Соломаха С.С. - sergey.solomakha (a) yahoo.com
